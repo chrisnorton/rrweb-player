@@ -1,6 +1,6 @@
 {
-  "name": "rrweb-player",
-  "version": "0.7.4",
+  "name": "@propelcommerce/rrweb-player",
+  "version": "0.7.5",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.0.0",
     "@rollup/plugin-node-resolve": "^7.0.0",
@@ -46,15 +46,15 @@
   "typings": "typings/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rrweb-io/rrweb-player.git"
+    "url": "git+https://github.com/chrisnorton/rrweb-player.git"
   },
   "keywords": [
     "rrweb"
   ],
-  "author": "yanzhen@smartx.com",
+  "author": "support@propelcommerce.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rrweb-io/rrweb-player/issues"
+    "url": "https://github.com/chrisnorton/rrweb-player/issues"
   },
-  "homepage": "https://github.com/rrweb-io/rrweb-player#readme"
+  "homepage": "https://github.com/chrisnorton/rrweb-player#readme"
 }
